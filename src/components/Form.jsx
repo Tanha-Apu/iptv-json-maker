@@ -41,7 +41,7 @@ export default function Form() {
   return (
     <>
       <header>
-        <img src='https://raw.githubusercontent.com/Tanha-Apu/iptv-json-maker/refs/heads/main/src/assets/iptv.png' width="30rem"/>{'\u00A0'}{'\u00A0'}
+        {'\u00A0'}{'\u00A0'}
          <h1>IPTV JSON MAKER</h1>
       </header>
     <div className="p-4 container max-w-3xl mx-auto">
