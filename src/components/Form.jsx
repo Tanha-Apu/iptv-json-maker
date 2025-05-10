@@ -41,7 +41,8 @@ export default function Form() {
   return (
     <>
       <header>
-        <h1>IPTV JSON MAKER</h1>
+        <img src='./src/assets/iptv.png' width="30rem"/>{'\u00A0'}{'\u00A0'}
+         <h1>IPTV JSON MAKER</h1>
       </header>
     <div className="p-4 container max-w-3xl mx-auto">
       <form onSubmit={handleSubmit} className="grid gap-3" >
